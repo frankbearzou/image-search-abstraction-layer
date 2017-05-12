@@ -1,5 +1,5 @@
 # Image Search Abstraction Layer
-Checking live demo at: [heroku](https://frankbearzou-image-search.herokuapp.com/).
+Checking live demo at: [Glitch](https://frankbearzou-image-search-abstraction-layer.glitch.me).
 
 In order to search image, Google Customer Search API has been used in this project.
 
